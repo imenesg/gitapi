@@ -1,0 +1,10 @@
+:root{
+    --cor1: #0D1117;
+    --cor2: #161B22;
+    --cor3: #1F6FEB;
+    --corB: #fff;
+    --corP: #000;
+}
+*{
+ box-sizing: border-box;   
+}
